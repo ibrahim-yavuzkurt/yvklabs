@@ -1,4 +1,4 @@
-# Proje Dosyaları yvklabs Freelancer
+# Proje Dosyaları yvklabs 
 
 Projenin yüksek boyutlu kurulum dosyalarına (veya derlenmiş versiyonuna) aşağıdaki bağlantıdan güvenle ulaşabilirsiniz:
 
